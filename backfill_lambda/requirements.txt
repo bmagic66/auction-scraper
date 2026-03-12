@@ -1,0 +1,4 @@
+supabase
+playwright==1.40.0
+python-dotenv
+awslambdaric

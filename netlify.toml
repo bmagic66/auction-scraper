@@ -1,0 +1,6 @@
+[build]
+  command = "python generate_config.py"
+  publish = "frontend"
+
+[dev]
+  command = "python -m http.server 8000 --directory frontend"
